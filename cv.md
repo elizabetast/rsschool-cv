@@ -6,17 +6,22 @@ __Phone__:
 * +375445474684 (Belarus)
 * +79500197909 (Russian Federation)
 
-__E-mail__: lstarovoytova17@gmail.com
-__Telegram__: @elizabetast
-__Github__: https://github.com/elizabetast
-___
+__E-mail__: lstarovoytova17@gmail.com  
+__Telegram__: @elizabetast  
+__Github__: https://github.com/elizabetast  
+__Discord server RSschool__: elizabetast   
+
+---
+
 ### About myself
-You can say that my involvement in IT began back in the 9th grade, when I was involved in children's IT school ITeen. Then I took a course in web development, or rather studied HTML/CSS. After graduating from grade 11, I entered the ITMO University, majoring in "Mobile and network technologies". I have already managed to try myself as a designer and project manager on several training projects. At the moment I'm working as a sales manager at the outsourcing agency FedAG, as well as a co-founder of the young company Stellaris Innovations. i
+You can say that my involvement in IT began back in the 9th grade, when I was involved in children's IT school ITeen. Then I took a course in web development, or rather studied HTML/CSS. After graduating from grade 11, I entered the ITMO University, majoring in "Mobile and network technologies". I have already managed to try myself as a designer and project manager on several training projects. At the moment I'm working as a sales manager at the outsourcing agency FedAG, as well as a co-founder of the young company Stellaris Innovations.  
 
 In my free time I like traveling, skiing and reading fiction, psychology. Since childhood, I always know exactly what I want and achieve my goals. I appreciate qualities such as diligence, responsibility, communication skills, ability to negotiate and persistence. Also, I have a trait, which is good in work, but not in real life: fanaticism.
 
 I like the frontend development profession because you can immediately see the result, get a nice picture and experiment. At this stage I have a basic knowledge of HTML/CSS/JS. In life I adhere to the rule ___"You will get exactly as much result as you have worked for"___ , therefore my desire to try and learn, the experience I have gained in life will lead me to my goal to become a good front-end developer.
-___
+
+---
+
 ### Skills
 
 __Technical__:
@@ -39,13 +44,15 @@ __Soft__:
 + Team-building
 + Sociability
 
-__Language__;
+__Language__:
 + Russian/Belarussian (native - C2)
 + English (B2 - exam at ITMO University)
-___
+
+---
+
 ### Work experience
 
-April, 2023 - present (Saint-P.)
+April, 2023 - present (Saint-P.)  
 __Sale/product-manager (FedAG)__
 - I deal with the external policy of the outsourcing agency
 - I communicate with customers
@@ -53,7 +60,7 @@ __Sale/product-manager (FedAG)__
 - I manage social networks and write articles
 - Interviewing and looking for developers
 
-May, 2023 - present (Saint-P/online)
+May, 2023 - present (Saint-P/online)  
 __Co-founder/product of the outsourcing agency (Stellaris Innovations)__
 - Finding Developers
 - Search for orders
@@ -61,30 +68,34 @@ __Co-founder/product of the outsourcing agency (Stellaris Innovations)__
 - Communication with customers
 - Internet presence and development of social networks
 
-Feb., 2023 - present (ITMO University)
+Feb., 2023 - present (ITMO University)  
 __Co-founder/designer (Service RANDOMCOFFEE ITMO)__
 - design development
 - management responsibilities
 - work with an advertising company
 - Writing the service functions in Python
 
-August, 2021 - May, 2023 (online)
-__Tutor in math, physics__
-___
+August, 2021 - May, 2023 (online)  
+__Tutor in math, physics__  
+
+--- 
+
 ### Education 
 
-2021 - present (2025)
+2021 - present (2025)  
 __Faculty of Infocommunication Technologies, Mobile and Network Technologies, ITMO UNIVERSITY__
 
-2018-2020 (Gomel)
+2018-2020 (Gomel)  
 __Web development course at the ITeen children's programming school, supported by Hi-Tech Park__
 + Diploma of the second degree of the 2nd stage of the national contest "Techno-Intellect
 + 4th place in the team hackathon on chat-bot development supported by the British Embassy
 
-2019 - 2021
+2019 - 2021  
 __Gomel State Regional Lyceum__
-Physics and mathematics profile
-___
+Physics and mathematics profile  
+
+---
+
 ### Code examples
 
 ### C#
