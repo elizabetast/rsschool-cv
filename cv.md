@@ -1,5 +1,5 @@
 # Elizaveta Starovoytova
-####(Intern Frontend Developer)
+#### (Intern Frontend Developer)
 ---
 ### Contact information
 __Phone__: 
@@ -85,7 +85,7 @@ __Web development course at the ITeen children's programming school, supported b
 __Gomel State Regional Lyceum__
 Physics and mathematics profile
 ___
-###Code examples
+### Code examples
 
 ### C#
 ***
