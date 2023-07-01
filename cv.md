@@ -81,7 +81,7 @@ __Web development course at the ITeen children's programming school, supported b
 + Diploma of the second degree of the 2nd stage of the national contest "Techno-Intellect
 + 4th place in the team hackathon on chat-bot development supported by the British Embassy
 
-2019 - 2019
+2019 - 2021
 __Gomel State Regional Lyceum__
 Physics and mathematics profile
 ___
